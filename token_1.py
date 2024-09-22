@@ -1,0 +1,4 @@
+# TOKEN THERE!
+TOKEN_DC = ('')
+CLIENT_GROQ = ('')
+TOKEN_OPENAI = ("")
